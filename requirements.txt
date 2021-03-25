@@ -121,7 +121,7 @@ pyparsing==2.2.2
 python-dateutil==2.7.3
 pytz==2018.4
 PyVCF==0.6.8
-PyYAML==5.3.1
+PyYAML==5.4
 pyzmq==17.1.2
 qtconsole==4.4.2
 redis==2.10.6
