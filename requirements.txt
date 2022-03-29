@@ -99,7 +99,7 @@ oauthlib==2.1.0
 pandas==0.23.4
 pandas-gbq==0.7.0
 pandocfilters==1.4.2
-paramiko==2.7.1
+paramiko==2.10.1
 pathlib2==2.3.2
 pathspec==0.5.9
 pbr==5.1.1
